@@ -1,4 +1,4 @@
-# Redimi-Voucher-SmartContract
+# Redimi-GiftCard-SmartContract
 
 Redimi solution comprises of several modules where each module accomplishes a crucial task. Following is the list of these modules:
 
@@ -18,9 +18,9 @@ This module involves development and deploying of smart contracts on Blockchain 
  
  * Redemption of gift cards: The gift cards can be redeemed at supported retailers. When a gift card is redeemed, this transaction takes place on the smart contract which also updates the amount available in the gift card. To prevent fraud, signatures from customer and retailer are used to authenticate the transaction.
  
- * Transfer voucher ownership: This functionality allows customers to transfer the gift cards to one another. 
+ * Transfer gift-card ownership: This functionality allows customers to transfer the gift cards to one another. 
  
- * Transfer voucher amount: Apart of transfering a complete voucher, customers can also transfer partial amounts from one voucher to another. 
+ * Transfer gift-card amount: Apart of transfering a complete gift-card, customers can also transfer partial amounts from one gift-card to another. 
  
  * Manage retail partners of the mall: Since gift cards purchased from a mall are only redeemable through supported retailers, this functionality allows adding/removing partner retailers.
  
